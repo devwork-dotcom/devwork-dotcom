@@ -1,6 +1,8 @@
 
 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devwork-dotcom&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devwork-dotcom&theme=aura&hide_border=false)<br/>
@@ -10,7 +12,25 @@
 ![](https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 💫 About Me:
-🔭 I’m currently working on:  <br>[**DUET Hall Management**](https://github.com/devwork-dotcom/duet-hall-management)  <br><br>👯 I’m looking to collaborate on:  <br>[**Bangladesh Diesel Plant Ltd.**](https://github.com/devwork-dotcom/bdpl-project)  <br><br>🤝 I’m looking for help with:  <br>[**Upcoming Flutter Project**](https://github.com/devwork-dotcom/flutter-help-project)  <br><br>## 🌱 I’m currently learning  <br>- BLoC State Management  <br>- Payment Gateway Integration  <br>- Google Maps for Flutter  <br><br>---<br><br>## 💬 Ask me about  <br>- Flutter, Dart, Firebase  <br>- MongoDB, Node.js, Express.js  <br>- State Management (GetX, Riverpod)<br><br>## ⚡ Fun fact  <br>💡 _“Code never lies, comments sometimes do.”_  
+🔭 I’m currently working on:  <br>
+[**DUET Hall Management**](https://github.com/devwork-dotcom/duet-hall-management)  
+<br><br>
+
+👯 I’m looking to collaborate on:  <br>
+[**Bangladesh Diesel Plant Ltd.**](https://github.com/devwork-dotcom/bdpl-project)  <br><br>
+🤝 I’m looking for help with:  <br>
+[**Upcoming Flutter Project**](https://github.com/devwork-dotcom/flutter-help-project)  <br><br>
+🌱 I’m currently learning  <br>
+- BLoC State Management  <br>
+- Payment Gateway Integration  <br>
+- Google Maps for Flutter  <br><br>---<br><br>
+💬 Ask me about  <br>
+- Flutter, Dart, Firebase  <br>
+- MongoDB, Node.js, Express.js  <br>
+- State Management (GetX, Riverpod)<br><br>
+
+⚡ Fun fact  <br>
+💡 _“Code never lies, comments sometimes do.”_  
 
 
  🌐 Socials:
