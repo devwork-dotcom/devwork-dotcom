@@ -192,26 +192,29 @@ AI-powered emotional wellness companion with an intelligent chatbot and Spotify 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=devwork-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=02569B&icon_color=00D4FF&text_color=c9d1d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devwork-dotcom&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devwork-dotcom&theme=tokyonight"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwork-dotcom&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=02569B&text_color=c9d1d9"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwork-dotcom&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=devwork-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=02569B&fire=00D4FF&currStreakLabel=02569B"/>
+<img src="https://streak-stats.demolab.com?user=devwork-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=02569B&fire=00D4FF&currStreakLabel=02569B"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6"/>
 
 </div>
-
----
-
 ## `{ currently building }`
 
 ```
