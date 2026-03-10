@@ -109,25 +109,4 @@
 [![](https://visitcount.itsvg.in/api?id=devwork-dotcom&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
-```
 
----
-
-## 📋 আরও যা যা করতে হবে (GitHub Settings থেকে)
-
-**① Profile Bio ঠিক করো** → Settings > Edit Profile > Bio:
-```
-Flutter Developer | Full-Stack Mobile Engineer | Play Store & App Store Publisher 📱
-```
-
-**② Social লিংক ঠিক করো** → Edit Profile > Social accounts:
-- LinkedIn: `https://www.linkedin.com/in/md-shamim-hosen-212270373`
-- *(শুধু এই লিংকটা রাখো, বাকিগুলো README-এ আছে)*
-
-**③ প্রতিটি Repository-তে Description যোগ করো:**
-- `Duet-Sports-Apps` → *"Sports management app for DUET university | Flutter, Firebase"*
-- `SMTAssignment` → *"Flutter assignment project | Dart"*
-
-**④ Repository Topics যোগ করো** (প্রতিটি repo > ⚙️ > Topics):
-```
-flutter  dart  firebase  mobile-app  android  ios  getx
