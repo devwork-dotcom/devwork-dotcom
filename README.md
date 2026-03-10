@@ -215,10 +215,10 @@ AI-powered emotional wellness companion with an intelligent chatbot and Spotify 
 ## `{ currently building }`
 
 ```
-▸ Payment Gateway Integration    ████████░░  80%
-▸ BLoC State Management          ██████░░░░  60%
-▸ Google Maps for Flutter        █████░░░░░  50%
-▸ Advanced AI Features           ███░░░░░░░  30%
+▸ Payment Gateway Integration        ████████░░  80%
+▸ RiverPod & Getx State Management   █████████░  90%
+▸ Google Maps for Flutter            █████░░░░░  50%
+▸ Advanced AI Features               ███░░░░░░░  30%
 ```
 
 ---
