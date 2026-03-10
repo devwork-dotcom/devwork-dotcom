@@ -206,7 +206,7 @@ AI-powered emotional wellness companion with an intelligent chatbot and Spotify 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&margin-w=6&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6" alt="trophies"/>
 
 </div>
 
