@@ -1,112 +1,246 @@
 <div align="center">
 
-# 👋 Hi, I'm Md. Shamim Hosen
-
-### 🚀 Flutter Developer | Full-Stack Mobile Engineer | Play Store & App Store Publisher
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Engineer;Node.js+%26+Firebase+Backend;Play+Store+%26+App+Store+Publisher;AI-Powered+App+Builder)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00D4FF&height=200&section=header&text=Md.%20Shamim%20Hosen&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full-Stack%20Mobile%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 </div>
-
----
-
-## 💫 About Me
-
-- 🔭 Currently working on: **[DUET Hall Dining Management System](https://github.com/devwork-dotcom/duet-hall-management)** — Full-stack Flutter app for 1000+ students
-- 🏢 Working at: **SM Technology (BDCalling, A Betopia Group)** as Flutter Developer
-- 📱 Published apps on: **Google Play Store** & **Apple App Store**
-- 🌱 Currently learning: **BLoC State Management · Payment Gateway Integration · Google Maps for Flutter**
-- 💬 Ask me about: **Flutter, Dart, Firebase, MongoDB, Node.js, GetX, Riverpod, App Publishing**
-- 📫 Reach me at: **shamim.devwork@gmail.com**
-- ⚡ Fun fact: *"Code never lies, comments sometimes do."*
-
----
-
-## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shamim-hosen-212270373)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BT8Z1iJQx/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shamim01703485411)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ShamimHass64596)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamim.devwork@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=02569B&center=true&vCenter=true&width=700&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Full-stack+mobile+engineer+%7C+Node.js+%2B+MongoDB;Play+Store+%26+App+Store+publisher;AI-powered+product+engineering)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shamim-hosen-212270373)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shamim.devwork@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/devwork-dotcom/My-Portfolio)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BT8Z1iJQx/)&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ShamimHass64596)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=devwork-dotcom&style=flat-square&color=02569B&label=Profile+Views)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## `{ whoami }`
 
-**Mobile Development**
+```dart
+const developer = Developer(
+  name:      'Md. Shamim Hosen',
+  role:      'Flutter Developer & Full-Stack Mobile Engineer',
+  company:   'SM Technology · BDCalling, A Betopia Group',
+  location:  'Banasree, Dhaka, Bangladesh',
+  education: 'BSc CSE — DUET (CGPA 3.47) · Diploma CSE — BIIT (CGPA 3.97)',
+  email:     'shamim.devwork@gmail.com',
+  published: ['Google Play Store', 'Apple App Store'],
+  focus:     ['Cross-Platform Apps', 'AI Integration', 'Full-Stack Mobile'],
+);
+```
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+> Flutter Developer with **2+ years** of experience shipping production apps to **Play Store & App Store**.
+> I specialize in building scalable, AI-powered cross-platform applications — from pixel-perfect UI to backend APIs.
+
+---
+
+## `{ stack }`
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Backend & Database**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**State Management & Tools**
+**State Management**
 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=flat-square&logo=dart&logoColor=white)
 
-**Publishing**
+**AI & Intelligence**
 
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Chatbot-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF9500?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square&logo=openai&logoColor=white)
 
----
+**Publishing & DevOps**
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🍽️ **DUET Hall Dining Management** | Full-stack dining management for 1000+ students | Flutter, Node.js, MongoDB |
-| 🩸 **DUET Swajan (Blood Donation)** | Community blood donor matching platform | Flutter, Firebase |
-| 🏭 **Bangladesh Diesel Plant App** | Enterprise app for Bangladesh Army entity | Flutter, Node.js, MongoDB |
-| 💬 **Bargains** | Social commerce app with chat, groups & AI feed | Flutter, Firebase, GetX |
-| 🤖 **Probability AI App** | AI Q&A chatbot with 11-language support | Flutter, AI, IAP |
-| 💪 **FitAI Fitness Tracker** | AI-powered fitness app with calorie scanner | Flutter, ML, Firebase |
-| 🌐 **Pacstar** | Multi-role enterprise social platform | Flutter, Node.js, MongoDB |
-| 😊 **How Are You Today** | Mental wellness app with AI chatbot & Spotify | Flutter, Node.js, AI |
+![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## `{ projects }`
+
+> Production applications — shipped, scaled, and published.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Pacstar
+**Multi-role enterprise social platform**
+
+Full-stack platform with 3-tier RBAC (Admin · Manager · User), real-time group chat, QR/barcode product scanning, AI-powered marketing recommendations, and PDF/CSV business analytics export.
+
+`Flutter` `Node.js` `MongoDB` `JWT` `AI Chatbot` `RBAC`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Bargains
+**Social commerce app**
+
+Rich social platform with posts, likes, comments, group creation, user tagging, and real-time chat. Multi-format content support: text, images, GIFs, PDFs, and links — powered by AI feed personalization.
+
+`Flutter` `Firebase` `GetX` `AI` `Real-Time Chat`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 FitAI — Smart Fitness Tracker
+**AI-powered health & fitness app**
+
+Image-to-calorie ML engine, workout tracking, hydration monitoring, AI coaching chatbot, gamification with badges & challenges, smart notifications, and premium IAP monetization.
+
+`Flutter` `ML` `Firebase` `AI Chatbot` `GetX` `IAP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Probability — AI Q&A Assistant
+**Intelligent decision-support app**
+
+AI chatbot with sentiment-aware probability analysis. Supports 11 languages (i18n), dark/light theming, social sharing, and in-app purchases for premium AI insights.
+
+`Flutter` `AI` `i18n` `IAP` `Firebase` `GetX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ DUET Hall Dining Management
+**Full-stack university dining system**
+
+Digitized dining operations for 1000+ students — role-based access, meal scheduling, real-time order tracking, and a full Node.js + MongoDB backend.
+
+`Flutter` `Node.js` `MongoDB` `GetX` `Riverpod`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 DUET Swajan — Blood Donation App
+**Community health platform**
+
+Real-time donor-recipient matching via Firebase Firestore, geolocation search, push notifications, and user profile management for a university-wide blood donation network.
+
+`Flutter` `Firebase` `Riverpod` `Push Notifications`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Bangladesh Diesel Plant Ltd. App
+**Enterprise mobile app · Bangladesh Army**
+
+Secure internal operations app for a government commercial entity — JWT authentication, offline caching, real-time MongoDB sync, and operational reporting.
+
+`Flutter` `Node.js` `MongoDB` `SharedPreferences` `GetX`
+
+</td>
+<td width="50%" valign="top">
+
+### 😊 How Are You Today
+**Mental wellness app**
+
+AI-powered emotional wellness companion with an intelligent chatbot and Spotify music integration. Full backend built on Node.js + Express + MongoDB.
+
+`Flutter` `Node.js` `MongoDB` `AI Chatbot` `Spotify API`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `{ experience }`
+
+**Flutter Developer** · SM Technology *(BDCalling, A Betopia Group)* &nbsp;`Jan 2025 – Present`
+> Developing and deploying production Flutter apps for Android & iOS · REST API integration · Agile engineering team
+
+**IoT & Mobile Application Engineer** · Bangladesh Rice Research Institute *(Government of Bangladesh)* &nbsp;`2024`
+> Built IoT-integrated Flutter app for real-time government research data collection · Hardware sensor UI · Delivered on schedule
+
+---
+
+## `{ github }`
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=devwork-dotcom&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=devwork-dotcom&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devwork-dotcom&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=devwork-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=02569B&icon_color=00D4FF&text_color=c9d1d9"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwork-dotcom&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=02569B&text_color=c9d1d9"/>
 
 </div>
 
-## 🏆 GitHub Trophies
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=devwork-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=02569B&fire=00D4FF&currStreakLabel=02569B"/>
+
+</div>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&margin-w=6&column=6)
 
 </div>
 
 ---
 
+## `{ currently building }`
+
+```
+▸ Payment Gateway Integration    ████████░░  80%
+▸ BLoC State Management          ██████░░░░  60%
+▸ Google Maps for Flutter        █████░░░░░  50%
+▸ Advanced AI Features           ███░░░░░░░  30%
+```
+
+---
+
+## `{ connect }`
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=devwork-dotcom&icon=0&color=6)](https://visitcount.itsvg.in)
+I'm open to **full-time roles**, **freelance projects**, and **collaborations** on ambitious mobile products.
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/Available_for_Hire-02569B?style=for-the-badge&logo=flutter&logoColor=white)](mailto:shamim.devwork@gmail.com)
+&nbsp;
+[![View Resume](https://img.shields.io/badge/View_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/devwork-dotcom/My-Portfolio)
+
+<br/>
+
+*"The best app is the one that ships."*
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:02569B&height=100&section=footer" width="100%"/>
+</div>
