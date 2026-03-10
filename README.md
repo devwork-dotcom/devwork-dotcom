@@ -199,22 +199,17 @@ AI-powered emotional wellness companion with an intelligent chatbot and Spotify 
 
 <div align="start">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devwork-dotcom&theme=tokyonight"/>
+<!-- <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devwork-dotcom&theme=tokyonight"/>
 &nbsp;
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwork-dotcom&theme=tokyonight"/>
 
-</div>
+</div> -->
 <div align="start">
 
 <img src="https://github-trophies.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&margin-w=6&column=6"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=devwork-dotcom&theme=tokyonight&no-frame=true&margin-w=6&column=6"/>
-
-</div>
 ## `{ currently building }`
 
 ```
